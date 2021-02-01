@@ -1,0 +1,9 @@
+.disabled {
+  display: none;
+}
+
+.error {
+  display: inline-block;
+  color: red;
+  
+}
